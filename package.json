@@ -1,0 +1,22 @@
+{
+  "name": "is_uwu",
+  "version": "1.0.0",
+  "description": "Tests for uwu's or variations within provided string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Genghius/is_uwu.git"
+  },
+  "keywords": [
+    "uwu"
+  ],
+  "author": "Genghius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Genghius/is_uwu/issues"
+  },
+  "homepage": "https://github.com/Genghius/is_uwu#readme"
+}
