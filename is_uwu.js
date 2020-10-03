@@ -1,10 +1,10 @@
-function is_uwu(wannabeuwu)			{
-let uwu = /uwu/ig				;
+		function is_uwu(wannabeuwu)	{
+	let uwu = /uwu/ig			;
 	if(uwu.test(wannabeuwu))		{
-		return true			;
+return true					;
 						} 
 	else 					{
-		return false			;
+return false					;
 						}
 						}
-exports.is_uwu = is_uwu				;
+		exports.is_uwu = is_uwu		;
