@@ -1,8 +1,8 @@
-##The is_uwu module.
+## The is_uwu module.
 
 this glorious module is optimized to the fullest, it is capable of finding uwu's in any string faster than any other module.
 
-##I am speed.
+## I am speed.
 
 ```is_uwu("uwu");```
 
